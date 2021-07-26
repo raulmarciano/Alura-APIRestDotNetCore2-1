@@ -1,1 +1,1 @@
-# Alura-API-Rest-DotNet-Core-2-1
+# Referente ao curso da Alura APIs Rest com Asp.NET Core 2.1
